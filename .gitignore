@@ -3,7 +3,9 @@
 # dependencies
 /node_modules
 /.pnp
+/.history
 .pnp.js
+
 
 # testing
 /coverage
